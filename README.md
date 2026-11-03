@@ -133,4 +133,4 @@ flutter run
 - Load the questions from a JSON file instead of hardcoding them
 - Show whether the answer was right or wrong before moving on
 - Add a countdown timer per question
-- Shuffle the questions and options on every run
+- Shuffle the questions and options on every run, Goodluck!!
